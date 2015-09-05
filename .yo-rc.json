@@ -1,0 +1,21 @@
+{
+  "generator-jhipster": {
+    "baseName": "agricole",
+    "packageName": "tchoums",
+    "packageFolder": "tchoums",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "no",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "enableTranslation": true,
+    "rememberMeKey": "f6fbb6a8d348c41b444c5052e0cd52a0b62756a8"
+  }
+}
